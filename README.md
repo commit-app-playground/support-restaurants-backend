@@ -55,3 +55,9 @@ Your repository comes with a end-to-end CI/CD pipeline, which includes the follo
 [service]: ./kubernetes/deploy/service.yml
 [ingress]: ./kubernetes/deploy/ingress.yml
 [kustomization]: ./kubernetes/deploy/kustomization.yml
+
+
+### Note
+
+I had an issue with the SSO auth and I was just able to  finish a local enviroment for the HOP project.
+The code for a local enviroment can be found here: https://github.com/vicjicaman/commit-hop-support-restaurants
